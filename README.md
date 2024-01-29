@@ -1,8 +1,19 @@
-![image](https://github.com/doclin-dev/landingpage-build/assets/24940719/88fc15da-1a26-4993-8c85-dd6fee806abd)
-
-You can ask questions to your teammates about existing code.
-![image](https://github.com/doclin-dev/landingpage-build/assets/24940719/aaaf9abf-2fef-4c86-9e44-3df436cf1975)
 
 
-You can explain difficult parts of code, and you comment will show up whenever any developer opens up a file.
-![image](https://github.com/doclin-dev/landingpage-build/assets/24940719/8c166c0e-3044-4c94-a71c-25c84ad9afcd)
+
+![image](https://github.com/doclin-dev/landingpage-build/assets/24940719/59187116-ee19-4ed1-aa3d-bdd2be5af993)
+
+You can mention your teammate to ask any question about any code snippet.  Mentioned users will receive an email notification and they can respond to your thread.
+
+![image](https://github.com/doclin-dev/landingpage-build/assets/24940719/f8287401-4d0b-43de-940c-1d050cbf9b74)
+
+
+Your discussion stays coupled with the file. Therefore, anytime a user opens the file, the relevant discussions show up in the extension.
+
+![image](https://github.com/doclin-dev/landingpage-build/assets/24940719/59e414ed-3676-41f5-97f5-a928483f1366)
+
+
+Any changes made to submitted code snippet, Doclin will mark the snippet as outdated.
+
+![image](https://github.com/doclin-dev/landingpage-build/assets/24940719/7af86509-567d-411a-a8e5-ce72c675f291)
+

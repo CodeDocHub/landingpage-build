@@ -2,8 +2,6 @@
 
 Doclin is a modern way of commenting on a codebase. It is built for large software developer teams dealing with complex systems.
 
-![image](https://github.com/doclin-dev/landingpage-build/blob/main/assets/doclinDemo.gif?raw=true)
-
 ### With doclin,
 
 1. **You don't need to leave your IDE to ask a question on a piece of code**.\
@@ -17,6 +15,8 @@ Any questions asked on a particular piece of code stay coupled to the code in do
 
 4. **You can prevent unclean code from reoccurring in the future**.\
 If you ever come across some unclean code your colleagues have written and if you want future devs to not copy-paste these? Simply leave a comment on that, suggest a better alternative and you are good to go!
+
+![image](https://github.com/doclin-dev/landingpage-build/blob/main/assets/doclinDemo.gif?raw=true)
 
 # Doclin is super easy to set up
 

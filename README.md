@@ -1,19 +1,22 @@
-Doclin is a modern way of commenting on codebase. It is built for large software developer teams dealing with complex systems.
+# Doclin for VS Code
 
-# With doclin,
+Doclin is a modern way of commenting on a codebase. It is built for large software developer teams dealing with complex systems.
+
+![image](https://github.com/doclin-dev/landingpage-build/blob/main/assets/doclinDemo.gif?raw=true)
+
+### With doclin,
 
 1. **You don't need to leave your IDE to ask a question on a piece of code**.\
-If you come across a code that raises questions, simply tag your teammember on doclin and ask the question. Your question and answer you received will stay coupled with the code which anyone can view at any time.
+If you come across a code that raises questions, simply tag your team member on doclin and ask the question. Your question and answer you received will stay coupled with the code which anyone can view at any time.
 
 2. **You no longer need inline comments**.\
-Inline comments are messy and gets easily outdated. They are often redundant where explanation is not necessary and often not useful when explaning difficult business logic. You can use doclin's rich text editor and thread-reply system that everyone loves to leave comments on your code.
+Inline comments are messy and get easily outdated. They are often redundant where an explanation is not necessary and often not useful when explaining difficult business logic. You can use doclin's rich text editor and thread-reply system that everyone loves to leave comments on your code in real-time.
 
-3. **You  will not waste time on problems that have been solved before**. \
-Any questions asked on particular piece of code stays coupled to the code in doclin. So whenever you pull up a tangly source code you may already come across threads that answers your question.
+3. **You will not waste time on problems that have been solved before**. \
+Any questions asked on a particular piece of code stay coupled to the code in doclin. So whenever you pull up a tangly source code you may come across threads that already answer your question.
 
-4. **You can prevent unclean code from reoccuring in the future**.\
-If you ever come across some unclean code your colleagues have written and if you want future devs to not copy-paste these? Simple leave a comment on that, suggest a better alternative and you are good to go!
-
+4. **You can prevent unclean code from reoccurring in the future**.\
+If you ever come across some unclean code your colleagues have written and if you want future devs to not copy-paste these? Simply leave a comment on that, suggest a better alternative and you are good to go!
 
 # Doclin is super easy to set up
 
@@ -25,15 +28,14 @@ If you ever come across some unclean code your colleagues have written and if yo
 
 ![image](https://github.com/doclin-dev/landingpage-build/blob/main/assets/doclinSetup.gif?raw=true)
 
-# It is super easy to add a comment
+# It is even easier to add a comment
 
 1. Open a file on vscode with doclin installed.
-2. Highlight a piece of code and click 'Add Comment.' There are three ways add comment:
-  1.  Use the "Add Comment" button on the bottom-left status bar.
-  2.  Or, right-click on editor and click 'Add Comment.'
-  3.  Or, use 'CTRL + SHIFT + P' and type in 'Add Comment.'
-3. If you want to mention your teammates, type in '@' and their name on the editor.
+2. Highlight a piece of code and click 'Add Comment.' There are three ways add a comment:
+    - Use the "Add Comment" button on the bottom-left status bar.
+    - Or, right-click on vscode and click 'Add Comment.'
+    - Or, use 'CTRL + SHIFT + P' and type in 'Add Comment.'
+3. If you want to mention your teammates, type in '@' and their names on the editor.
 4. Hit 'Submit.'
-
 
 ![image](https://github.com/doclin-dev/landingpage-build/blob/main/assets/doclinDemo.gif?raw=true)

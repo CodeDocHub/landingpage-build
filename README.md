@@ -31,7 +31,7 @@ If you ever come across some unclean code, just leave a comment and suggest a be
 # It is even easier to add a comment
 
 1. Open a file on vscode with doclin installed.
-2. Highlight a piece of code and click 'Add Comment'. There are three ways add a comment:
+2. Highlight a piece of code and click 'Add Comment'. There are three ways to add a comment:
     - Use the 'Add Comment' button on the bottom-left status bar.
     - Or, right-click on vscode and click 'Add Comment.'
     - Or, use 'CTRL + SHIFT + P' and type in 'Add Comment'.
